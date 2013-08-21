@@ -14,3 +14,6 @@ Every article will have the following sections
 - Ways to organize a party and socialize using a Beer theme
 - Pictures of the Beer
 - Special events of the Beer
+- Calorific Value of the Beer
+- Advantage of the Beer
+- Harmful effects of the beer
