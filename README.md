@@ -1,4 +1,4 @@
 BeerWiki
 ========
 
-Beer Wiki
+Notes related to the Beer Wiki project
